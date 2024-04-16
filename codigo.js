@@ -1,3 +1,1 @@
-// let recipiente = "hola como estas";
-
-// alert("recipiente")
+// sin codigo  JavaScript en este repositorio 
